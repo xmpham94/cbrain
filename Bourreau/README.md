@@ -1,4 +1,4 @@
-# CBRAIN Project : Bourreau
+# CBRAIN Project : Bourreau hilou
 
 Welcome the CBRAIN Bourreau application!
 
